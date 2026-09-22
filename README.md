@@ -3,3 +3,5 @@
 Autor: José Carlos Granados García
 
 Realizando cambios para registrar en el repositorio.
+
+Aprendizaje con GIT
