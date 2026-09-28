@@ -7,3 +7,4 @@ Realizando cambios para registrar en el repositorio.
 Aprendizaje con GIT
 
 un último cambio
+cambio en segunda sesión de GIT
